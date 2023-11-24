@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dihan Calitz</h1>
 <h3 align="center">A passionate GIS Specialist from South Africa</h3>
 
-![](/readme_image.jpg)
+<p align="center">
+  <img src="/readme_image.jpg" alt="Dihan Calitz" width="200" height="200">
+</p>
 ![](/readme_image2.png)
 
 - 🔭 I’m currently working on **postgraduate studies in GIS at University of Pretoria**

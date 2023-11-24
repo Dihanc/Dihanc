@@ -5,7 +5,7 @@
   <img src="/readme_image.jpg" alt="Dihan Calitz">
 </p>
 
-- 🔭 I’m currently working on **postgraduate studies in GIS at University of Pretoria**
+- 🔭 I’m currently working on my **postgraduate studies in GIS at University of Pretoria**
 
 - 📫 How to reach me **dihancalitz2001@gmail.com**
 

@@ -2,6 +2,7 @@
 <h3 align="center">A passionate GIS Specialist from South Africa</h3>
 
 ![](/readme_image.jpg)
+![](/readme_image2.png)
 
 - 🔭 I’m currently working on **postgraduate studies in GIS at University of Pretoria**
 

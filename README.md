@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **dihancalitz2001@gmail.com**
 
-- 📄 Know about my experiences [on my online profile](https://dihancalitz2001.wixsite.com/dihancalitzprofile)
-
 - ⚡ Fun fact **I like to play guitar**
 
 <h3 align="left">Connect with me:</h3>

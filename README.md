@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dihan Calitz</h1>
-<h3 align="center">A passionate GIS Analyst from South Africa</h3>
+<h3 align="center">A passionate GIS Professional from South Africa</h3>
 
 <p align="center">
   <img src="/readme_image.jpg" alt="Dihan Calitz">
